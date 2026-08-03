@@ -14,7 +14,21 @@ public class Alquiler_autoss {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        holaa
+        class Vehicle {
+    private String plate;
+    private String brand;
+    private String model;
+    private double dailyRate;
+    private boolean available;
+
+    public Vehicle(String plate, String brand, String model, double dailyRate) {
+        this.plate = plate;
+        this.brand = brand;
+        this.model = model;
+        this.dailyRate = dailyRate;
+        this.available = true;
+    }
+        
     }
     
 }

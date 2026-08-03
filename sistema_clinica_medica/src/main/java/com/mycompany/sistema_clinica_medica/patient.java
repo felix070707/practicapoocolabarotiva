@@ -69,7 +69,7 @@ public class patient {
             case 2:
                 // Lógica para actualizar los datos de un paciente
             System.out.println("Ingrese el ID del paciente a actualizar:");
-            String id = scanner.nextLine();
+            this.id = scanner.nextLine();
             System.out.println("Ingrese el nuevo nombre del paciente:");
             this.name = scanner.nextLine();
             System.out.println("Ingrese el nuevo apellido del paciente:");

@@ -33,3 +33,15 @@
 						Mateus
 						Mauricio toro
 						Fawketh Ruiz Castro
+						
+8   Sistema de Biblioteca Digital
+                        Grupo 8
+                        Juan David Romero Calderón
+                        Juan Diego Oteca
+                        Javier Melo
+                        
+9   Sistema de Gestión de Eventos
+                        Grupo 9
+                        Juan Esteban Peña Duran
+                        Juan Diego Duzzan Guarniso
+                        

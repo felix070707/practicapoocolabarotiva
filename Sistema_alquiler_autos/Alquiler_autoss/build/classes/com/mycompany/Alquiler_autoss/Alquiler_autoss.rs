@@ -1,0 +1,8 @@
+com.mycompany.Alquiler_autoss.Customer
+com.mycompany.Alquiler_autoss.Rental
+com.mycompany.Alquiler_autoss.Main
+com.mycompany.Alquiler_autoss.Vehicle
+com.mycompany.Alquiler_autoss.Payment
+alquiler_autoss.Alquiler_autoss$1Vehicle
+com.mycompany.Alquiler_autoss.Company
+alquiler_autoss.Alquiler_autoss
